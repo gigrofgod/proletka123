@@ -40801,7 +40801,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pathCreator: {fileID: 1820078209}
-  endOfPathInstruction: 2
+  endOfPathInstruction: 3
   controlSpeed:
   - {x: 18, y: 1}
   - {x: 21, y: 0.5}
